@@ -1,10 +1,9 @@
 ## Explainable Models for Healthcare AI
 
-Muhammad Aurangzeb Ahmad
-
-Dr. Carly Eckert M.D
-
-Ankur Teredesai
+* Muhammad Aurangzeb Ahmad
+* Dr. Carly Eckert M.D
+* Ankur Teredesai
+* Vikas Kumar
       
 **Abstract:** This tutorial extensively covers the definitions, nuances, challenges, and requirements for the design
 		of interpretable and explainable machine learning models and systems in healthcare. We discuss many uses in which interpretable machine learning models are needed in healthcare and how they should be deployed. Additionally, we explore the landscape of recent advances to address the challenges model interpretability in healthcare and also describe how one would go about choosing the right interpretable machine learnig algorithm for a given problem in healthcare.
