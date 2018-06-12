@@ -1,5 +1,7 @@
 ## Explainable Models for Healthcare AI
 
+KDD 2018 London, UK (August 19, 2018)
+
 * Muhammad Aurangzeb Ahmad
 * Dr. Carly Eckert M.D
 * Ankur Teredesai
@@ -16,4 +18,6 @@ The contexts within healthcare systems where it may be prudent to ask machine le
 Different aspects of explainability in machine learning will be explored in this tutorial e.g., explainability is not limited to machine learning models but also to other aspects of machine learning like input data, model parameters, and the algorithms used. Additionally, the type of explanation provided to the is highly dependent upon the user of the system e.g., competence (cognitive capacity), novice vs. expert (domain knowledge), depth of explanation (explanation granularity) etc. Thus, in some cases, a simple linear model using highly engineered and complex features may be less interpretable than a deep learning model using simple intuitive features. Based on a comprehensive survey of literature on interpretable machine learning models we describe a framework which can be used to evaluate interpretable machine learning systems. We then map this framework and various machine learning algorithms to multiple problem domains within healthcare. We also describe in detail the constraints and pitfalls for interpretable machine learning within healthcare from the perspective of a healthcare domain expert.
 	
 In the later half of the tutorial, we focus on real world use cases and studies on machine learning systems in healthcare e.g., A landmark study on a machine learning model predicting pneumonia revealed that the machine learning system was giving a lower risk score to patients who also have asthema. In reality the patients in the asthma cohort were already being given extra care so that the data was biased. Nuances like these get lost in Black Box machine learning systems. In medical image diagnosis where deep learning algorithms have shown to have excellent predictive power, it has been demonstrated that it is possible to fool the system into making mistakes which a human expert would never make. We explore use cases accross the patient care continuum to address the various nuances needed to balance between algorithmic optimization and explanability in problems like disease progression, risk of readmission, emergency department admission and utilization, disease diagnosis etc. Lastly we give our perspective on the future of machine learning and healthcare by extrapolating on some of the current trends, exploring some emerging areas in this field and describing areas where the healthcare domain can benefit the most from application of machine learning.
+
+
 	
