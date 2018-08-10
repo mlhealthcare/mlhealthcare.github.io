@@ -1,5 +1,6 @@
 ## Explainable Models for Healthcare AI
 
+![alt text](http://mlhealthcare.github.io/kdd-2018-587.jpg)
 KDD 2018 London, UK (August 19, 2018)
 
 * Muhammad Aurangzeb Ahmad
@@ -19,5 +20,6 @@ Different aspects of explainability in machine learning will be explored in this
 	
 In the later half of the tutorial, we focus on real world use cases and studies on machine learning systems in healthcare e.g., A landmark study on a machine learning model predicting pneumonia revealed that the machine learning system was giving a lower risk score to patients who also have asthema. In reality the patients in the asthma cohort were already being given extra care so that the data was biased. Nuances like these get lost in Black Box machine learning systems. In medical image diagnosis where deep learning algorithms have shown to have excellent predictive power, it has been demonstrated that it is possible to fool the system into making mistakes which a human expert would never make. We explore use cases accross the patient care continuum to address the various nuances needed to balance between algorithmic optimization and explanability in problems like disease progression, risk of readmission, emergency department admission and utilization, disease diagnosis etc. Lastly we give our perspective on the future of machine learning and healthcare by extrapolating on some of the current trends, exploring some emerging areas in this field and describing areas where the healthcare domain can benefit the most from application of machine learning.
 
-
-	
+## Slides ##
+- [Power Point](http://mlhealthcare.github.io/ExplainableAIinHealthcareKDD2018.pptx.zip)
+- [PDF](http://mlhealthcare.github.io/ExplainableAIinHealthcareKDD2018.pdf)
