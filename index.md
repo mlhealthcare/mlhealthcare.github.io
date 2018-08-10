@@ -1,6 +1,7 @@
 ## Explainable Models for Healthcare AI
 
 ![alt text](http://mlhealthcare.github.io/kdd-2018-587.jpg)
+
 KDD 2018 London, UK (August 19, 2018)
 
 * Muhammad Aurangzeb Ahmad
