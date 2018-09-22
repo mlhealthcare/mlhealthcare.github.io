@@ -1,4 +1,3 @@
-## Explainable AI for Healthcare
 KDD 2018 London, UK (August 19, 2018)
 Room 14: 1:00 PM - 5:00 PM
 
@@ -8,6 +7,7 @@ Room 14: 1:00 PM - 5:00 PM
 * Vikas Kumar
 
 KenSci Inc. and University of Washington
+## Explainable AI for Healthcare
       
 **Abstract:** This tutorial extensively covers the definitions, nuances, challenges, and requirements for the design
 		of interpretable and explainable machine learning models and systems in healthcare. We discuss many uses in which interpretable machine learning models are needed in healthcare and how they should be deployed. Additionally, we explore the landscape of recent advances to address the challenges model interpretability in healthcare and also describe how one would go about choosing the right interpretable machine learnig algorithm for a given problem in healthcare.
